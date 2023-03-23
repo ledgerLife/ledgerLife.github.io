@@ -1,0 +1,2 @@
+!function(){"use strict";chrome.runtime.onMessage.addListener((function(e,n,t){console.log("[content.js]. Message received",e);var o={title:document.title,headlines:Array.from(document.getElementsByTagName("h1")).map((function(e){return e.innerText})),anchors:Array.from(document.getElementsByTagName("a")).map((function(e){return e.innerText}))};console.log("[content.js]. Message response",o),t(o)}))}();
+//# sourceMappingURL=content.js.map

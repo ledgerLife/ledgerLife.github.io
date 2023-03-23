@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="41px" height="41px" viewBox="0 0 41 41" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>编组 75</title>
+    <g id="页面-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="09" transform="translate(-167.000000, -720.000000)">
+            <g id="编组-3" transform="translate(0.000000, 714.000000)">
+                <g id="编组-81" transform="translate(17.000000, 5.000000)">
+                    <g id="编组-75" transform="translate(150.000000, 1.000000)">
+                        <circle id="椭圆形" fill="#5F8AEA" cx="20.5" cy="20.5" r="20.5"></circle>
+                        <g id="编组-74" transform="translate(11.928053, 12.251371)" stroke="#FFFFFF" stroke-linecap="round" stroke-linejoin="round" stroke-width="2">
+                            <g id="编组-73">
+                                <polyline id="路径-115" points="4.54303262e-13 4.0268996 3.57986936 0 6.71489959 4.0268996"></polyline>
+                                <line x1="3.35744979" y1="-1.13686838e-13" x2="3.35744979" y2="15.6272352" id="路径-116"></line>
+                            </g>
+                            <g id="编组-73备份" transform="translate(14.571947, 8.000000) scale(1, -1) translate(-14.571947, -8.000000) translate(11.071947, 0.000000)">
+                                <polyline id="路径-115" points="4.54303262e-13 4.0268996 3.57986936 0 6.71489959 4.0268996"></polyline>
+                                <line x1="3.35744979" y1="-1.13686838e-13" x2="3.35744979" y2="15.6272352" id="路径-116"></line>
+                            </g>
+                        </g>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>
